@@ -1,7 +1,7 @@
 <h1 align="center">I'm Samad Khan | Software Engineer Intern @ VDTS</h1>
 <h3 align="center">Aspiring Software Engineer seeking Winter 2027 internships | Backend & AI focused.</h3>
 
-- 🔭 I’m currently working on a** real life BMO from Adventure Time**
+- 🔭 I’m currently working on a **real life BMO from Adventure Time**
 
 - 🌱 I’m currently learning **Machine Learning, Firebase, and Agentic Coding**
 
