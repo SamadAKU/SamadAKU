@@ -1,11 +1,11 @@
 <h1 align="center">I'm Samad Khan | Software Engineer Intern @ VDTS</h1>
 <h3 align="center">Aspiring Software Engineer seeking Winter 2027 internships | Backend & AI focused.</h3>
 
-- 🔭 I’m currently working on **A Sign Language Education WebApp**
+- 🔭 I’m currently working on **A real life BMO**
 
-- 🌱 I’m currently learning **Machine Learning, AWS, and Agentic Coding**
+- 🌱 I’m currently learning **Machine Learning, Firebase, and Agentic Coding**
 
-- 💬 Ask me about **Fullstack Development**
+- 💬 Ask me about **Computer Vision & ML**
 
 - 📫 How to reach me **Samadkhan244@hotmail.com**
 
