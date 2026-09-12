@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samad Khan | Computer Science (Co-op) Student</h1>
-<h3 align="center">Aspiring Software Engineer seeking Summer 2026 internships | Backend & AI focused.</h3>
+<h1 align="center">I'm Samad Khan | Software Engineer Intern @ VDTS</h1>
+<h3 align="center">Aspiring Software Engineer seeking Winter 2027 internships | Backend & AI focused.</h3>
 
 - 🔭 I’m currently working on **A Sign Language Education WebApp**
 
